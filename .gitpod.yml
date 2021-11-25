@@ -1,4 +1,7 @@
-
+tasks:
+  - init: |
+      sudo apt update
+      sudo apt install openscad -y 
 vscode:
   extensions:
     - antyos.openscad
