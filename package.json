@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@jscad/cli": "^2.2.11",
+    "@jscad/examples": "^2.3.1"
+  },
+  "devDependencies": {
+    "vsce": "^2.5.1"
+  }
+}
